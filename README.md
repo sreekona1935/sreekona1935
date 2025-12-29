@@ -1,6 +1,12 @@
-<h2 align="left">Hi👋 I am Sree Kona and I'm a Computer Science Major, from University of North Texas</h2>
+<h2 align="left">Hi👋 I am Sree Kona</h2>
 
+### 🔍 What I’m Interested In
+- 📈 Data Science & Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning & AI
+- 🧠 Data-driven decision making
+- 🌐 Building data-backed applications
 
+### 🛠️ Technical Skills
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -21,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+### 📜 Certifications
+- 📊 Google Data Analytics – *Foundations: Data, Data, Everywhere*
+- 🧠 Google – *Ask Questions to Make Data-Driven Decisions*
 
 ###
 
